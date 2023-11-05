@@ -108,7 +108,7 @@
 , { "Type": "T2", "Name": "Spider", "file": "example_spider.json"}
 , { "Type": "T2", "Name": "Swan", "file": "example_swan.json"}
 
-, { "Type": "T2", "Name": " - -- --- Wicks --- -- -"}
+, { "Type": "T2x", "Name": " - -- --- Wicks --- -- -"}
 
 , { "Type": "T1", "Name": " - -- --- Combinations --- -- -"}
 , { "Type": "T2", "Name": "2 Gosper Glider Guns", "file": "example_2_gosper_glider_guns.json"}
